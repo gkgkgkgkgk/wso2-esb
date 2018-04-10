@@ -5,6 +5,10 @@
 
 open file SampleShop-soapui-project.xml in SoapUI and start mock service
 
+<h2>WSO2 Components</h2>
+
+deploy ESBTestDist_1.0.0.car - drop into folder wso2ei-6.2.0/repository/deployment/server/carbonapps
+
 <h2>Accessing Via REST Client</h2>
 
 <h4>Success cases</h4>
