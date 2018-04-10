@@ -1,7 +1,11 @@
 
 <h1>Accessing backend SOAP services via WSO2 EI/ESB<//h1>
 
-<h2>Via REST Client</h2>
+<h2>Mock backend server</h2>
+
+open file SampleShop-soapui-project.xml in SoapUI and start mock service
+
+<h2>Accessing Via REST Client</h2>
 
 <h4>Success cases</h4>
 
@@ -12,7 +16,7 @@
 
 192.168.1.212:8280/shopapi/search?text=electronics
 
-<h2>Via SOAP Client</h2>
+<h2>Accessing Via SOAP Client</h2>
 
 URL - http://192.168.1.212:8280/services/ShopProxy
 
